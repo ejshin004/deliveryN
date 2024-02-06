@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="관리자 로그인"
+        android:paddingTop="5dp"
+        android:layout_marginBottom="85dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:textColor="#F0D252"
+        android:background="#000000"
+        android:fontFamily="@font/tmon_black"
+        android:textSize="45sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/email_image" />
+
+        <EditText
+            android:background="@drawable/edge"
+            android:id="@+id/loginActivity_edittext_id"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:hint=" 이메일" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pwd_image" />
+
+        <EditText
+            android:background="@drawable/edge"
+            android:id="@+id/loginActivity_edittext_password"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:textSize="20sp"
+            android:hint=" 비밀번호" />
+
+    </LinearLayout>
+
+    <Button
+        android:textColor="#F0D252"
+        android:background="#000000"
+        android:text="로그인"
+        android:fontFamily="@font/malgun"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="17sp"
+        android:id="@+id/loginActivity_button_login"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp" />
+
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855279629833",
+    "firebase_url": "https://deliveryn-c527e-default-rtdb.firebaseio.com",
+    "project_id": "deliveryn-c527e",
+    "storage_bucket": "deliveryn-c527e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855279629833:android:39e9897db96693119caad8",
+        "android_client_info": {
+          "package_name": "com.deliveryn.orderlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855279629833-ie7unheivotgnnla1lto4tcv47tq9lk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeT8Xt-IqIBBbE-JKTe9ZR6sN-k5rdfi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855279629833-ie7unheivotgnnla1lto4tcv47tq9lk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_marginTop="35dp"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:fontFamily="@font/malgun"
+            android:textStyle="bold"
+            android:text=" 배달비"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:background="@drawable/edge"
+            android:id="@+id/edt_delivery_fee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="23dp"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:fontFamily="@font/malgun"
+            android:textStyle="bold"
+            android:text="  은행"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:background="@drawable/edge"
+            android:id="@+id/edt_bank_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="23dp"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:fontFamily="@font/malgun"
+            android:textStyle="bold"
+            android:text="계좌번호 "
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:background="@drawable/edge"
+            android:id="@+id/edt_account_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="23dp"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

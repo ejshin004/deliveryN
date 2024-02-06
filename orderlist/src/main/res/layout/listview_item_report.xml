@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:background="@drawable/list_border">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:text="R  E  P  O  R  T"
+        android:textStyle="bold"
+        android:background="@drawable/list_border_title"
+        android:textColor="#F0D252"
+        android:textSize="18dp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/aboutReport"
+        android:layout_margin="8dp"
+        android:text="text2"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        android:layout_gravity="left"/>
+
+</LinearLayout>

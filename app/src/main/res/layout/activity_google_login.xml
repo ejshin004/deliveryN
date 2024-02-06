@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="배달/N"
+        android:paddingTop="5dp"
+        android:layout_marginBottom="85dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:textColor="#F0D252"
+        android:background="#000000"
+        android:fontFamily="@font/tmon_black"
+        android:textSize="45sp" />
+
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/googleLoginBtn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true">
+    </com.google.android.gms.common.SignInButton>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        >
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginRight="25dp"
+        android:textColor="#F0D252"
+        android:background="#000000"
+        android:fontFamily="@font/malgun"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:text="로그아웃"/>
+
+    <Button
+        android:id="@+id/adminLoginBtn"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="25dp"
+        android:textColor="#F0D252"
+        android:background="#000000"
+        android:fontFamily="@font/malgun"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:text="관리자 로그인" />
+    </LinearLayout>
+
+
+</LinearLayout>

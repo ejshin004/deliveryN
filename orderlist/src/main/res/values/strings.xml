@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">orderlist</string>
+    <string-array name="spinner_array">
+        <item>돈가스/회/일식</item>
+        <item>중식</item>
+        <item>치킨</item>
+        <item>백반/죽/국수</item>
+        <item>카페/디저트</item>
+        <item>분식</item>
+        <item>찜/탕/찌개</item>
+        <item>피자</item>
+        <item>양식</item>
+        <item>고기/구이</item>
+        <item>족발/보쌈</item>
+        <item>아시안</item>
+        <item>패스트푸드</item>
+        <item>도시락</item>
+    </string-array>
+
+    <string name="account_num"><u>계좌번호</u></string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+    <string-array name="report_spinner_array">
+        <item>유출/사칭/사기</item>
+        <item>낚시/놀람/도배</item>
+        <item>욕설/비하</item>
+        <item>노쇼(no-show)</item>
+        <item>기타</item>
+    </string-array>
+
+</resources>
