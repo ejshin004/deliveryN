@@ -34,7 +34,12 @@
 >6. 신고하기 기능
 >7. push 알림
 
-![10 슬라이드_채팅](https://github.com/ejshin004/deliveryN/assets/55674729/cedd0d8f-ffe7-4977-9ca3-2e1b8fb16eee)
-![10 슬라이드_신고하기](https://github.com/ejshin004/deliveryN/assets/55674729/db103c0a-1803-49c0-8621-4b767010e6a2)
-![10 슬라이드_관리자 페이지](https://github.com/ejshin004/deliveryN/assets/55674729/19d01604-9848-40a8-8892-978b5fe08568)
+>**시연 영상**
 
+https://github.com/ejshin004/deliveryN/assets/55674729/30014f74-f40e-4d95-b8c0-43beb7c87d31
+
+https://github.com/ejshin004/deliveryN/assets/55674729/5afe14cc-5839-49ae-9c10-5d269cddec33
+
+https://github.com/ejshin004/deliveryN/assets/55674729/88dd14b3-045f-496a-9a1b-aeb78e395b09
+
+https://github.com/ejshin004/deliveryN/assets/55674729/d9c61bca-3a49-432e-af3d-87770fb4d899
