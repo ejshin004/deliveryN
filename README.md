@@ -36,19 +36,10 @@
 
 >**시연 영상**
 
-https://github.com/ejshin004/deliveryN/assets/55674729/30014f74-f40e-4d95-b8c0-43beb7c87d31
+https://github.com/ejshin004/deliveryN/assets/55674729/85b9769b-cd82-4d2e-a99b-fe593e1734e1
 
-https://github.com/ejshin004/deliveryN/assets/55674729/5afe14cc-5839-49ae-9c10-5d269cddec33
+https://github.com/ejshin004/deliveryN/assets/55674729/a2a9f5d0-3256-4401-a8e1-6b7ddf8efac0
 
+https://github.com/ejshin004/deliveryN/assets/55674729/6713b886-cad9-45a8-a182-4317299e9d31
 
-
-https://github.com/ejshin004/deliveryN/assets/55674729/403cb4d7-ea2b-40f2-b3a1-8095833bc5cb
-
-
-
-
-
-
-https://github.com/ejshin004/deliveryN/assets/55674729/88dd14b3-045f-496a-9a1b-aeb78e395b09
-
-https://github.com/ejshin004/deliveryN/assets/55674729/d9c61bca-3a49-432e-af3d-87770fb4d899
+https://github.com/ejshin004/deliveryN/assets/55674729/3cf5baf0-88f0-4896-af68-b892e0d4d22f
