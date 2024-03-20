@@ -47,7 +47,7 @@ https://github.com/ejshin004/deliveryN/assets/55674729/02f6d583-5839-40f2-81ce-3
 https://github.com/ejshin004/deliveryN/assets/55674729/a2a9f5d0-3256-4401-a8e1-6b7ddf8efac0
 
 ### ▶️신고하기
-https://github.com/ejshin004/deliveryN/assets/55674729/8a50bf99-ad70-4700-8c41-8affcd17e84b
+https://github.com/ejshin004/deliveryN/assets/55674729/0ef67a9f-1de7-4b0f-8db1-2dbc3805b757
 
 ### ▶️ 관리자 페이지
 https://github.com/ejshin004/deliveryN/assets/55674729/3cf5baf0-88f0-4896-af68-b892e0d4d22f
