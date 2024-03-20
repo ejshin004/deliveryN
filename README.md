@@ -44,8 +44,6 @@
 ## ▶️ 시연 영상
 https://github.com/ejshin004/deliveryN/assets/55674729/02f6d583-5839-40f2-81ce-3edd4b5d3760
 
-</br>
-
 ### ▶️ 채팅
 https://github.com/ejshin004/deliveryN/assets/55674729/a2a9f5d0-3256-4401-a8e1-6b7ddf8efac0
 
